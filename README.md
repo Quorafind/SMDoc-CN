@@ -13,10 +13,10 @@ SuperMemo 17 文档中文版
 
 1. [ABC]()
 2. [提示及技巧]()
-   - [第一章-入门基础](https://github.com/Quorafind/SMDoc-CN/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
+   - [第一章-入门基础](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
 3. [参考]()
 4. [概述]()
-   - [快捷键]()
+   - [快捷键](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%A6%82%E8%BF%B0/Keyboard%20shortcuts.md)
 5. [词汇表]()
 6. [支持]()
 
