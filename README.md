@@ -14,7 +14,7 @@ SuperMemo 17 文档中文版
 1. [ABC]()
 2. [提示及技巧]()
    - [第一章-入门基础](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
-   - [第二章](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E9%87%8D%E5%A4%8D%E4%B8%8E%E5%A4%8D%E4%B9%A0.md)
+   - [第二章-复习与重复](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E9%87%8D%E5%A4%8D%E4%B8%8E%E5%A4%8D%E4%B9%A0.md)
 3. [参考]()
 4. [概述]()
    - [快捷键](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%A6%82%E8%BF%B0/Keyboard%20shortcuts.md)
@@ -45,7 +45,7 @@ A: 并不是，至少在目前看来，只是民间组织的自发行为。
 
 ------
 
-以上内容由 禅与 SuperMemo 之学习艺术 群提供：[**582185640**]([https://jq.qq.com/?_wv=1027&k=5TZ1lgu](https://jq.qq.com/?_wv=1027&k=5TZ1lgu))
+以上内容由 禅与 SuperMemo 之学习艺术 群提供：[**582185640**](https://jq.qq.com/?_wv=1027&k=5TZ1lgu)
 
 
 
