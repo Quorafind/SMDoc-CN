@@ -4,7 +4,19 @@
 
 证书：[**Apache**](https://www.apache.org/licenses/LICENSE-2.0)
 
-[TOC]
+## 目录
+
+   * [Keyboard shortcuts](#keyboard-shortcuts)
+      * [鼠标快捷键](#鼠标快捷键)
+      * [单一键](#单一键)
+      * [Function 键](#function-键)
+      * [Shift 键](#shift键)
+      * [Ctrl 键](#ctrl键)
+      * [Alt 键](#alt键)
+      * [Shift Ctrl 键](#shiftctrl键)
+      * [Ctrl Alt 键](#ctrlalt键)
+      * [Shift Alt 键](#shiftalt键)
+      * [Ctrl Alt Shift 键](#ctrlaltshift键)
 
 ------
 
@@ -157,7 +169,7 @@
 
 ## Alt+键
 
-- Alt+\: 在[编辑模式下](http://super-memory.com/help/g.htm#Editing_mode)，删除光标前的文本
+- Alt+\\: 在[编辑模式下](http://super-memory.com/help/g.htm#Editing_mode)，删除光标前的文本
 - Alt +.: 删除光标后的文本(不带[引用](http://super-memory.com/help/references.htm))
 - Alt+Enter: 在[**Tools**](http://super-memory.com/help/tools.htm): [**plan**](http://super-memory.com/help/plan.htm) : 开始或结束编辑活动 ( start or end editing an activity)
 - Alt +向左箭头
