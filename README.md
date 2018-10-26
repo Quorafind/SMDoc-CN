@@ -17,7 +17,7 @@ SuperMemo 17 文档中文版
    - [第二章-复习与重复](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E9%87%8D%E5%A4%8D%E4%B8%8E%E5%A4%8D%E4%B9%A0.md)
 3. [参考]()
 4. [概述]()
-   - [快捷键](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%A6%82%E8%BF%B0/Keyboard%20shortcuts.md)
+   - [快捷键](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%A6%82%E8%BF%B0/Keyboard-shortcuts.md)
 5. [词汇表](https://github.com/Quorafind/SMDoc-CN/blob/master/%E8%AF%8D%E6%B1%87%E8%A1%A8/%E8%AF%8D%E6%B1%87%E8%A1%A8.md)
 6. [支持]()
 
