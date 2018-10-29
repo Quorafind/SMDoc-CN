@@ -7,7 +7,7 @@ SuperMemo 17 文档中文版
 
 感谢 Supermemo 原作者：[Piotr Woźniak](https://www.supermemo.com/english/company/wozniak.htm)
 
-文档更新日期：2018-10.23
+文档更新日期：2018-10.30
 
 ## 目录
 
@@ -15,7 +15,7 @@ SuperMemo 17 文档中文版
 2. [提示及技巧]()
    - [第一章-入门基础](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
    - [第二章-复习与重复](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E9%87%8D%E5%A4%8D%E4%B8%8E%E5%A4%8D%E4%B9%A0.md)
-   - [第三章-引用及渐进学习]()
+   - [第三章-引用及渐进学习](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%BC%95%E7%94%A8%E5%8F%8A%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0.md)
 3. [参考]()
 4. [概述]()
    - [快捷键](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%A6%82%E8%BF%B0/Keyboard-shortcuts.md)
