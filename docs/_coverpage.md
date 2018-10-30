@@ -6,4 +6,4 @@
 - 合适的内容分配
 - 为您的学习铺路
 
-[GitHub](https://github.com/Quorafind/SMDoc-CN) [Get Started](http://smdoc.cn/#/README)
+[GitHub](https://github.com/Quorafind/SMDoc-CN) [Get Started]()
