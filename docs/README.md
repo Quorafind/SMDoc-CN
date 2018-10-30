@@ -9,21 +9,6 @@ SuperMemo 17 文档中文版
 
 文档更新日期：2018-10.30
 
-## 目录
-
-1. [ABC]()
-2. [提示及技巧]()
-   - [第一章-入门基础](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8.md)
-   - [第二章-复习与重复](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E9%87%8D%E5%A4%8D%E4%B8%8E%E5%A4%8D%E4%B9%A0.md)
-   - [第三章-引用及渐进学习](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%BC%95%E7%94%A8%E5%8F%8A%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0.md)
-   - [第四章-渐进学习的核心](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%A0%B8%E5%BF%83.md)
-   - [第五章-渐进学习的应用](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%8F%90%E7%A4%BA%E5%8F%8A%E6%8A%80%E5%B7%A7/%E7%AC%AC%E4%BA%94%E7%AB%A0-%E6%B8%90%E8%BF%9B%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BA%94%E7%94%A8.md)
-3. [参考]()
-4. [概述]()
-   - [快捷键](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%A6%82%E8%BF%B0/Keyboard-shortcuts.md)
-5. [词汇表](https://github.com/Quorafind/SMDoc-CN/blob/master/%E8%AF%8D%E6%B1%87%E8%A1%A8/%E8%AF%8D%E6%B1%87%E8%A1%A8.md)
-6. [支持]()
-
 ## 软件下载
 
 您可以到[这里](http://www.super-memo.com/supermemo17.html)下载当前文档所对应的软件。此外，您也可以到[这里](http://www.super-memo.com/supermemo17.html)下载通用版软件。
