@@ -21,6 +21,7 @@ SuperMemo 17 文档中文版
 3. [参考]()
 4. [概述]()
    - [快捷键](https://github.com/Quorafind/SMDoc-CN/blob/master/%E6%A6%82%E8%BF%B0/Keyboard-shortcuts.md)
+   - [二十条基本原则]()
 5. [词汇表](https://github.com/Quorafind/SMDoc-CN/blob/master/%E8%AF%8D%E6%B1%87%E8%A1%A8/%E8%AF%8D%E6%B1%87%E8%A1%A8.md)
 6. [支持]()
 

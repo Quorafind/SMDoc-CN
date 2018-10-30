@@ -3,6 +3,7 @@
   - [关于](/About me.md)
 - 概述
   - [键盘快捷键](/Introduction/Keyboard-shortcuts.md)
+  - [20 条基本规则](/Introduction/20rules.md)
 - 词汇表
   - [词汇表](/Glossary/词汇表.md)
 - 技巧以及内容
