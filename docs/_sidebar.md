@@ -1,6 +1,6 @@
 - 介绍
   - [文档详情](/README.md)
-  - [关于](/About me.md)
+  - [关于](/About-me.md)
 - 概述
   - [键盘快捷键](/Introduction/Keyboard-shortcuts.md)
   - [20 条基本规则](/Introduction/20rules.md)
